@@ -3,7 +3,7 @@
 # Seaside - Trave Website
 
 
-- Responsive Car website Using HTML CSS & JavaScript
+- Responsive Travel website Using HTML CSS & JavaScript
 - Contains animations when scrolling.
 - Smooth scrolling in each section.
 - Developed first with the Mobile First methodology, then for desktop.

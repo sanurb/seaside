@@ -10,7 +10,7 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 ### Demo 🚢
-
+- [Watch the demo](https://sanurb.github.io/seaside/)
 
 ### Build With 🛠️ 
 * [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
